@@ -1,0 +1,1 @@
+import{P as e,et as t,it as n,s as r}from"./clientIslandContext-s20oKOq-.js";var i={props:{content:{type:Object,required:!0}}};function a(r,i,a,o,s,c){let l=n(`wwLayout`);return t(),e(l,{path:`wwObjects`,class:`section-base`})}var o=r(i,[[`render`,a],[`__scopeId`,`data-v-976f3a67`]]);export{o as t};

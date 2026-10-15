@@ -1,0 +1,1 @@
+import{t as e}from"./ssrPageComponents-ojc9wRiM.js";import{t}from"./wwElement-BpMYBjZW.js";var n=!1;async function r(r){n||=(r.component(`wwobject-817d65ef-7dc1-4775-96c7-1555863ad6ce`,t),r.component(`section-99586bd3-2b15-4d6b-a025-6a50d07ca845`,e),!0)}export{r as default};

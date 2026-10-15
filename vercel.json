@@ -1,0 +1,24 @@
+{
+  "rewrites": [
+    {
+      "source": "/admin/users/:path*",
+      "destination": "/admin/users/__param__/index.html"
+    },
+    {
+      "source": "/editor/:path*",
+      "destination": "/editor/__param__/index.html"
+    },
+    {
+      "source": "/p/:path*",
+      "destination": "/p/__param__/index.html"
+    },
+    {
+      "source": "/preview/:path*",
+      "destination": "/preview/__param__/index.html"
+    },
+    {
+      "source": "/(.*)",
+      "destination": "/index.html"
+    }
+  ]
+}
